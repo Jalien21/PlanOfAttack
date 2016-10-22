@@ -1,0 +1,35 @@
+Plan of Attack
+
+I've always really liked those battle maps where they show troop movements (example). I want to make a turn based 2 player game where you do battle by drawing out these maps. Your troops fight based on the battle plans you make for them. You start by setting up your troops within defined areas, and then progressively move them around the battlefield, and they do battle based on your plans. Need to figure out how to make this game really tactical so that it's chess or Risk-like. 2D, maybe good for mobile as well. 
+
+Objectives
+ - Should vary with level
+ - Could change during the course of a level
+ - Defend/Capture an objective like a city or strategic hill
+ - Find inspiration from historical battles
+ - Fog of war should be a big deal in some levels
+ - Generals should matter to combat, they could be objectives too
+
+Terrain
+ - Roads make you move faster
+ - Forests provide cover, can hide
+ - rivers, lakes, etc are impassible
+ - hills provide better visibility, better range, but slow movement when climbing (good defensive position)
+ - Bridges should be really important
+ - Blow up or build bridges, dig trenches and fortifications
+ - Camps?
+ - Buildings, cities, etc. urban combat?
+
+Units
+ - Could vary era with levels like Civ
+    - Ancient Battle is mostly melee, with cavalry, archers, maybe elephants sometimes
+    - Civil War era: artillery and guns
+    - World War era: big artillery, tanks. air support? Visibility strategy is probably different
+    - Modern/future era?
+ - Could also vary art within each era (ancient battle could be like Rome or medieval)
+ - Naval battles would be cool
+
+ Art
+ - Could make it look like the maps
+ - Or could make it more 3d and realisticy
+ - Maybe particle effects can be used to simulate individual people fighting and dying somehow?	
